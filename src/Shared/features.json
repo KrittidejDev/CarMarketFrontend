@@ -1,0 +1,79 @@
+{
+  "features": [
+    {
+      "label": "Touchscreen Display",
+      "name": "touchscreenDisplay",
+      "fieldType": "checkbox"
+    },
+    {
+      "label": "Leather Seats",
+      "name": "leatherSeats",
+      "fieldType": "checkbox"
+    },
+    {
+      "label": "Sunroof",
+      "name": "sunroof",
+      "fieldType": "checkbox"
+    },
+    {
+      "label": "Bluetooth Connectivity",
+      "name": "bluetoothConnectivity",
+      "fieldType": "checkbox"
+    },
+    {
+      "label": "Backup Camera",
+      "name": "backupCamera",
+      "fieldType": "checkbox"
+    },
+    {
+      "label": "Blind Spot Monitoring",
+      "name": "blindSpotMonitoring",
+      "fieldType": "checkbox"
+    },
+    {
+      "label": "Heated Seats",
+      "name": "heatedSeats",
+      "fieldType": "checkbox"
+    },
+    {
+      "label": "Cruise Control",
+      "name": "cruiseControl",
+      "fieldType": "checkbox"
+    },
+    {
+      "label": "Lane Departure Warning",
+      "name": "laneDepartureWarning",
+      "fieldType": "checkbox"
+    },
+    {
+      "label": "All-Wheel Drive",
+      "name": "allWheelDrive",
+      "fieldType": "checkbox"
+    },
+    {
+      "label": "Apple CarPlay",
+      "name": "appleCarPlay",
+      "fieldType": "checkbox"
+    },
+    {
+      "label": "Android Auto",
+      "name": "androidAuto",
+      "fieldType": "checkbox"
+    },
+    {
+      "label": "Remote Start",
+      "name": "remoteStart",
+      "fieldType": "checkbox"
+    },
+    {
+      "label": "Automatic Emergency Braking",
+      "name": "automaticEmergencyBraking",
+      "fieldType": "checkbox"
+    },
+    {
+      "label": "Adaptive Cruise Control",
+      "name": "adaptiveCruiseControl",
+      "fieldType": "checkbox"
+    }
+  ]
+}

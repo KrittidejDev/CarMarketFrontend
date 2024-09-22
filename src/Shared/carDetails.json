@@ -1,0 +1,196 @@
+{
+  "carDetails": [
+    {
+      "label": "Listing Title",
+      "name": "listingTitle",
+      "fieldType": "text",
+      "required": true,
+      "column": 2,
+      "icon": "FaClipboardList"
+    },
+    {
+      "label": "Tagline",
+      "name": "tagline",
+      "fieldType": "text",
+      "column": 2,
+      "icon": "FaTag"
+    },
+    {
+      "label": "Original Price",
+      "name": "originalPrice",
+      "fieldType": "number",
+      "column": 2,
+      "icon": "FaDollarSign"
+    },
+    {
+      "label": "Selling Price",
+      "name": "sellingPrice",
+      "fieldType": "number",
+      "required": true,
+      "column": 2,
+      "icon": "FaDollarSign"
+    },
+    {
+      "label": "Category",
+      "name": "category",
+      "fieldType": "select",
+      "options": ["New", "Used", "Certified Pre-Owned"],
+      "required": true,
+      "column": 2,
+      "icon": "FaListAlt"
+    },
+
+    {
+      "label": "Type",
+      "name": "type",
+      "fieldType": "select",
+      "options": ["Sedan", "SUV", "Pickup Truck", "Van", "EV"],
+      "required": true,
+      "column": 2,
+      "icon": "FaTruckPickup"
+    },
+    {
+      "label": "Make",
+      "name": "make",
+      "fieldType": "select",
+      "options": [
+        "Toyota",
+        "Honda",
+        "Isuzu",
+        "Mazda",
+        "Mitsubishi",
+        "Nissan",
+        "Ford",
+        "Chevrolet",
+        "Suzuki",
+        "MG",
+        "Hyundai",
+        "BMW",
+        "Mercedes-Benz",
+        "Audi",
+        "Lexus",
+        "Subaru",
+        "Kia",
+        "Porsche",
+        "Lamborghini",
+        "Ferrari",
+        "Rolls-Royce"
+      ],
+      "required": true,
+      "column": 2,
+      "icon": "FaCar"
+    },
+    {
+      "label": "Model",
+      "name": "model",
+      "fieldType": "text",
+      "required": true,
+      "column": 2,
+      "icon": "FaCarAlt"
+    },
+    {
+      "label": "Year",
+      "name": "year",
+      "fieldType": "number",
+      "required": true,
+      "column": 1,
+      "icon": "FaCalendarAlt"
+    },
+    {
+      "label": "Drive Type",
+      "name": "driveType",
+      "fieldType": "select",
+      "options": [
+        "Front-Wheel Drive",
+        "Rear-Wheel Drive",
+        "All-Wheel Drive",
+        "Four-Wheel Drive"
+      ],
+      "required": true,
+      "column": 2,
+      "icon": "FaRoad"
+    },
+    {
+      "label": "Transmission",
+      "name": "transmission",
+      "fieldType": "select",
+      "options": ["Manual", "Automatic", "CVT", "Dual-Clutch"],
+      "required": true,
+      "column": 2,
+      "icon": "FaCogs"
+    },
+    {
+      "label": "Fuel Type",
+      "name": "fuelType",
+      "fieldType": "select",
+      "options": ["Petrol", "Diesel", "Electric", "Hybrid"],
+      "required": true,
+      "column": 2,
+      "icon": "FaGasPump"
+    },
+    {
+      "label": "Mileage",
+      "name": "mileage",
+      "fieldType": "number",
+      "required": true,
+      "column": 1,
+      "icon": "FaTachometerAlt"
+    },
+    {
+      "label": "Engine Size",
+      "name": "engineSize",
+      "fieldType": "number",
+      "required": true,
+      "column": 1,
+      "icon": "FaCarBattery"
+    },
+    {
+      "label": "Cylinder",
+      "name": "cylinder",
+      "fieldType": "number",
+      "column": 1,
+      "icon": "FaCircle"
+    },
+    {
+      "label": "Color",
+      "name": "color",
+      "fieldType": "text",
+      "required": true,
+      "column": 1,
+      "icon": "FaPalette"
+    },
+    {
+      "label": "Door",
+      "name": "door",
+      "fieldType": "number",
+
+      "column": 1,
+      "icon": "FaDoorOpen"
+    },
+    {
+      "label": "VIN",
+      "name": "vin",
+      "fieldType": "text",
+
+      "column": 2,
+      "icon": "FaBarcode"
+    },
+    {
+      "label": "Offer Type",
+      "name": "offerType",
+      "fieldType": "select",
+      "options": ["For Sale", "For Lease", "Auction"],
+      "required": true,
+      "column": 2,
+      "icon": "FaHandshake"
+    },
+    {
+      "label": "Listing Description",
+      "name": "listingDescription",
+      "fieldType": "textarea",
+      "required": true,
+      "column": 2,
+      "icon": "FaFileAlt"
+    }
+  ]
+}
